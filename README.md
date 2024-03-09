@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://camo.githubusercontent.com/d9cfcaf5b1f6bb6a18958f19fe010c0f3c2e9fbaa5db12be0f4cacce740eb4d4/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30392f63362f32392f30396336323930336265656261333336646339646137366562356339613130372e676966" height="500"/>
 <div id="badges">
-  <img src="www.linkedin.com/in/santhose-h-m-b98446227&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  
 </div>
