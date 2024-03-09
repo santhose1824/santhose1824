@@ -1,6 +1,6 @@
 ### Hi there this is H.M.Santhose 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9pHlfl9uOCKb8-3Yy7rFAzeliHDGWWk2gYtafx0ZXl6rnEWbqZB6J9Z_tEk3CQFC6y-c&usqp=CAU)" width="100"/>
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
