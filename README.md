@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Mobile Application developer from India</h3>
+<h3 align="center">A passionate Full Stack Mobile Application developer from India</h3>
 <div id="header" align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" height="500"/>
 </div>
