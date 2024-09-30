@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, 👋 I'm H.M.Santhose</h1>
 <h3 align="center">A passionate Full Stack Mobile Application developer from India</h3>
 <div id="header" align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif" height="500"/>
+  <img src="https://cdn.pixabay.com/photo/2024/02/18/13/13/ai-generated-8581189_1280.jpg" height="500"/>
 </div>
 
 - 🔭 I’m currently working on **Libro Bot**
