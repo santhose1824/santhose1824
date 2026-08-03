@@ -2,13 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=H.M.%20SANTHOSE&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Backend&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+PostgreSQL;2+applications+live+on+app+stores;Building+backend+systems+that+scale;Open+to+Software+Engineer+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Java+%7C+Spring+Boot+%7C+PostgreSQL;2+applications+live+on+app+stores;Building+backend+systems+%2B+DSA+in+Java;Open+to+Software+Engineer+roles" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-38BDF8?style=for-the-badge)](https://hmsanthoseprofessional.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhose-h-m-b98446227)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhose-hm)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhosemaha18@gmail.com)
+
+**🌐 [hmsanthoseprofessional.vercel.app](https://hmsanthoseprofessional.vercel.app/)**
 
 <img src="https://komarev.com/ghpvc/?username=santhose1824&style=flat-square&color=38BDF8" alt="Profile views"/>
 
@@ -26,10 +27,57 @@ public class Santhose {
     public static void main(String[] args) {
         System.out.println("Shipped 2 apps live on app stores.");
         System.out.println("Built developer tooling for a US-based team.");
-        System.out.println("Now going deep on Java, Spring Boot & PostgreSQL.");
+        System.out.println("Now building depth in Java, Spring Boot & PostgreSQL.");
     }
 }
 ```
+
+<br/>
+
+<div align="center">
+
+## 🎯 &nbsp;WHAT I'M BUILDING NOW
+
+</div>
+
+I ship products — two apps live on app stores, plus internal developer tooling for a remote US team. I'm now going deep on the backend side: **Java, Spring Boot, PostgreSQL, and data structures**, working toward backend engineering roles.
+
+Learning happens in public here. Progress below.
+
+<table>
+<tr>
+<td width="50%">
+
+**☕ Java & Backend**
+
+| Area | Status |
+|:---|:---|
+| Core Java — OOP, Collections | 🟡 In progress |
+| Java 8 — Streams, Lambdas | ⬜ Queued |
+| SQL & PostgreSQL | ⬜ Queued |
+| Spring Boot & REST | ⬜ Queued |
+| Spring Data JPA | ⬜ Queued |
+| Spring Security & JWT | ⬜ Queued |
+
+</td>
+<td width="50%">
+
+**🧩 DSA in Java** — *Striver A2Z*
+
+| Topic | Status |
+|:---|:---|
+| Basics, recursion, hashing | 🟡 In progress |
+| Sorting & arrays | ⬜ Queued |
+| Two pointer, sliding window | ⬜ Queued |
+| Binary search & strings | ⬜ Queued |
+| Linked list & stacks | ⬜ Queued |
+| Trees & greedy | ⬜ Queued |
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub><code>🟢 Done</code> · <code>🟡 In progress</code> · <code>⬜ Queued</code></sub></div>
 
 <br/>
 
@@ -64,7 +112,7 @@ public class Santhose {
 
 <div align="center">
 
-## 🎯 &nbsp;EXPERIENCE
+## 💼 &nbsp;EXPERIENCE
 
 </div>
 
@@ -106,6 +154,21 @@ public class Santhose {
 
 <div align="center">
 
+## 📚 &nbsp;LEARNING IN PUBLIC
+
+<table>
+<tr>
+<td width="25%" align="center"><b>☕ Core Java</b><br/><sub>OOP, Collections, Streams, Generics</sub></td>
+<td width="25%" align="center"><b>🧩 DSA in Java</b><br/><sub>Striver A2Z, pattern by pattern</sub></td>
+<td width="25%" align="center"><b>🐍 Python</b><br/><sub>Fundamentals to advanced</sub></td>
+<td width="25%" align="center"><b>🎯 Flutter</b><br/><sub>Dart & widget foundations</sub></td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 ## 📜 &nbsp;CERTIFICATIONS
 
 <table>
@@ -128,7 +191,7 @@ public class Santhose {
 
 ```
 ▸ Building    Spring Boot + PostgreSQL backend systems
-▸ Learning    JPA · Spring Security · System Design · DSA
+▸ Solving     Striver A2Z DSA sheet — in Java, every day
 ▸ Reading     Effective Java, Joshua Bloch
 ▸ Open to     Software Engineer / Backend Engineer roles
 ```
