@@ -66,8 +66,8 @@ Learning happens in public here. Progress below.
 
 | Topic | Status |
 |:---|:---|
-| Basics, recursion, hashing | 🟡 In progress |
-| Sorting & arrays | ⬜ Queued |
+| Basics, recursion, hashing | 🟢 Done |
+| Sorting & arrays | 🟡 In progress |
 | Two pointer, sliding window | ⬜ Queued |
 | Binary search & strings | ⬜ Queued |
 | Linked list & stacks | ⬜ Queued |
