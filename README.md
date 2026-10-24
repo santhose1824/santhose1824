@@ -129,8 +129,8 @@ My Java learning repository tracks my progress from programming basics toward a 
 - [x] Arrays and ArrayList
 - [x] Strings, StringBuilder and StringBuffer
 - [x] Object-Oriented Programming (OOP)
-- [ ] File Handling
-- [ ] Collections Framework
+- [x] File Handling
+- [x] Collections Framework
 - [ ] Java Stream API
 - [ ] Threads in Java
 - [ ] Java Internals
@@ -178,6 +178,7 @@ I am studying Computer Science fundamentals to understand what happens behind th
 
 ### Learning Areas
 
+- DBMS
 - Operating Systems
 - Computer Networks
 - Memory Management
