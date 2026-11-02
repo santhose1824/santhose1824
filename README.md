@@ -6,7 +6,7 @@
 
 **Software Engineering · Java · Backend Development · DSA**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+on+Real-World+Software+Experience;Strengthening+Java+%26+Programming+Fundamentals;Practising+Data+Structures+%26+Algorithms;Learning+Computer+Science+%26+System+Design;Working+Towards+Backend+Engineering" alt="Java software engineering learning journey" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+on+Real-World+Software+Experience;Strengthening+Java+%26+Programming+Fundamentals;Practising+Data+Structures+%26+Algorithms;Learning+Computer+Science+%26+Low-Level+Design;Working+Towards+Backend+Engineering" alt="Java software engineering learning journey" />
 
 <br/>
 
@@ -27,14 +27,14 @@ I'm an **Associate Software Engineer** with hands-on experience building, deploy
 
 My experience includes mobile application development, REST API integration, database-backed features, application debugging, and internal developer tooling.
 
-I'm now focusing on building deeper expertise in **Java programming, Data Structures and Algorithms (DSA), Computer Science fundamentals, and System Design**, progressing toward backend engineering.
+I'm now focusing on building deeper expertise in **Java programming, Data Structures and Algorithms (DSA), Computer Science fundamentals, and Low-Level Design (LLD)**, progressing toward backend engineering.
 
 - 💻 Experience developing and supporting real-world software products.
 - 🚀 Contributed to production applications and internal engineering tools.
 - ☕ Strengthening Java programming and problem-solving fundamentals.
 - 🧩 Learning systematically through a structured Java and DSA roadmap.
 - 🖥️ Studying Computer Science fundamentals to understand how software works internally.
-- 🏗️ Learning System Design and the principles behind reliable, scalable applications.
+- 🏗️ Learning Low-Level Design — SOLID principles, UML class diagrams and design patterns for clean, maintainable code.
 - 🎯 Career direction: Java Software Engineer / Backend Engineer.
 
 ```java
@@ -57,7 +57,7 @@ public class Santhose {
 
 ## 🎯 My Learning Roadmap
 
-My current priority is to strengthen programming fundamentals while developing problem-solving skills and understanding the foundations of computer systems and system architecture.
+My current priority is to strengthen programming fundamentals while developing problem-solving skills and understanding the foundations of computer systems and low-level software design.
 
 <table>
 <tr>
@@ -92,7 +92,7 @@ My current priority is to strengthen programming fundamentals while developing p
 </tr>
 <tr>
 <td align="center">6</td>
-<td>🏗️ System Design</td>
+<td>🏗️ Low-Level Design (LLD)</td>
 <td>🟡 In Progress</td>
 </tr>
 <tr>
@@ -196,30 +196,34 @@ I am studying Computer Science fundamentals to understand what happens behind th
 
 ---
 
-## 🏗️ System Design
+## 🏗️ Low-Level Design (LLD)
 
-System Design helps me understand how to structure software systems beyond individual functions and classes.
-
-I am building an understanding of how software architecture affects scalability, reliability, performance, and maintainability.
+Low-Level Design is where code starts to take shape — the bridge between architecture and actual implementation. It is granular, implementation-focused, and applies Object-Oriented Programming principles.
 
 ### Learning Areas
 
-- System architecture and component design
-- High-level design and low-level design
-- Scalability and reliability
-- Database design and data flow
-- Caching concepts
-- Load balancing
-- API design and service communication
-- Distributed systems fundamentals
-- Architectural trade-offs
+- LLD vs HLD, and the DRY, KISS and YAGNI principles
+- SOLID principles
+- UML class diagrams and class relationships
+- Creational patterns — Singleton, Factory, Abstract Factory, Builder, Prototype
+- Structural patterns — Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
+- Behavioural patterns — Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategy, Template Method, Visitor
+- Designing complete systems on my own
 
 ### Learning Goals
 
-- Understand why systems are designed in particular ways.
-- Identify trade-offs between competing design choices.
-- Design maintainable application components.
-- Develop the ability to reason about reliability and scalability.
+- Design classes and relationships cleanly.
+- Apply SOLID principles and the right design pattern to a problem.
+- Draw and read UML class diagrams.
+- Write maintainable, extensible and testable code.
+- Explain design choices and trade-offs in interviews.
+
+### Progress
+
+- [x] Introduction, SOLID and UML
+- [x] Creational patterns (5 / 5)
+- [x] Structural patterns (7 / 7)
+- [ ] Behavioural patterns (0 / 11)
 
 **Status:** 🟡 In Progress
 
@@ -506,7 +510,7 @@ My learning repositories document the progress I make as I strengthen my softwar
 - ☕ **Java:** Learn programming concepts and develop clean, maintainable code.
 - 🧩 **DSA:** Improve problem-solving skills and algorithmic thinking.
 - 🖥️ **Computer Science:** Understand operating systems, networking, memory, and concurrency.
-- 🏗️ **System Design:** Learn how to reason about architecture, scalability, and reliability.
+- 🏗️ **Low-Level Design:** Learn SOLID, UML class diagrams and design patterns, with Java code, notes and interview questions.
 - 🔧 **Backend:** Progress toward building Java and Spring Boot applications.
 - ☁️ **Infrastructure:** Learn deployment, containers, and cloud engineering.
 
@@ -524,7 +528,7 @@ My learning repositories document the progress I make as I strengthen my softwar
 ▸ Strengthening   Java Programming Fundamentals
 ▸ Practising      Problem-solving and DSA with Java
 ▸ Learning        Computer Science Fundamentals
-▸ Studying        System Design
+▸ Studying        Low-Level Design (design patterns)
 ▸ Building toward Java Backend Engineering
 ```
 
